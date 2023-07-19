@@ -11,17 +11,17 @@ Created on Tue Jul 18 08:24:27 2023
 #
 Kanth_AMPT={
     "kclad": 22.2, #Thermal Conductivity averaged between 50C and 1200 C (W/m-k)
-    "Tmelt": 1500.00, #melting Tempurature-C
+    "Tmelt": 1500.00, #melting Temperature-C
     }
 
 Zirc_2={
     "kclad": 17.9325, #Thermal Conductivity average between 100C and 800C (W/m-k)
-    "Tmelt":1850.00, #melting Tempurature- C 
+    "Tmelt":1850.00, #melting Temperature- C 
     }
 
 Stain_Steel_304={
     "kclad": 19.5, # Thermal Conductivity average between 100C and 600C (W/m-K)
-    "Tmelt": 1400-1450, #melting Tempurature-C
+    "Tmelt": 1400-1450, #melting Temperature-C
     }
 
 Zirc_2_Nickel_Free={
